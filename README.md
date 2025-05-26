@@ -1,4 +1,4 @@
-<h1 align=center>Exp 5 Bubble Sort and Merge sort in CUDA </h1>
+<h1>Exp 5 Bubble Sort and Merge sort in CUDA </h1>
 <h3>NAME: KOWSALYA M</h3>
 <h3>REGISTER NO: 212222230069</h3>
 <h3>DATE</h3>
